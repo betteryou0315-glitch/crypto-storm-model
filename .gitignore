@@ -1,0 +1,16 @@
+# 데이터 (코드로 다시 받을 수 있음, 수백 MB)
+data_ai/
+
+# 개인 경로가 들어간 실행 파일 (run_live.example.bat 참고)
+run_live.bat
+
+# 파이썬
+__pycache__/
+*.pyc
+.venv*/
+.ipynb_checkpoints/
+
+# 기타
+*.log
+.DS_Store
+Thumbs.db
